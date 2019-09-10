@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.015,C:\Users\sp\Desktop\work\Sound_control\Unit1.pas=C:\Users\sp\Desktop\work\Sound_control\AutoRun.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,=C:\Users\sp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.090,=C:\Users\sp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.672,=C:\Users\sp\Desktop\work\Sound_control\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.463,C:\Users\sp\Desktop\work\Sound_control\SoundC.dproj=C:\Users\sp\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,C:\Users\sp\Desktop\work\Sound_control\Main.pas=C:\Users\sp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.979,C:\Users\sp\Desktop\work\Sound_control\Main.dfm=C:\Users\sp\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.08.24 09:18:26.878,=D:\Coding\coding\Delphi\Sound_control\Unit2.pas</Transaction>
+    <Transaction>2018.08.24 09:19:43.668,D:\Coding\coding\Delphi\Sound_control\route_form.pas=D:\Coding\coding\Delphi\Sound_control\Unit2.pas</Transaction>
+    <Transaction>2018.08.24 09:19:43.668,D:\Coding\coding\Delphi\Sound_control\route_form.dfm=D:\Coding\coding\Delphi\Sound_control\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
